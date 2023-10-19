@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fba37b68-7ab8-4e23-b8b0-12182b6f3414" name="Changes" comment="initial commit - Adding BackspaceStringCompare.java">
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/problems/easy/LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/problems/easy/TwoSum.java" afterDir="false" />
+    <list default="true" id="fba37b68-7ab8-4e23-b8b0-12182b6f3414" name="Changes" comment="Adding TwoSum.java and LongestSubstringWithoutRepeatingCharacters.java">
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/problems/medium/AddTwoNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leetcode/problems/easy/LongestSubstringWithoutRepeatingCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/problems/medium/LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697733650523</updated>
-      <workItem from="1697733651608" duration="327000" />
+      <workItem from="1697733651608" duration="601000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit - Adding BackspaceStringCompare.java">
       <option name="closed" value="true" />
@@ -67,7 +67,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697733898063</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adding TwoSum.java and LongestSubstringWithoutRepeatingCharacters.java">
+      <option name="closed" value="true" />
+      <created>1697734005276</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697734005276</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +94,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit - Adding BackspaceStringCompare.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit - Adding BackspaceStringCompare.java" />
+    <MESSAGE value="Adding TwoSum.java and LongestSubstringWithoutRepeatingCharacters.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding TwoSum.java and LongestSubstringWithoutRepeatingCharacters.java" />
   </component>
 </project>
